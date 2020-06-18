@@ -21,5 +21,6 @@ fields:
   name: color
   label: color
 pages:
+- content/projects/alpha-test-copy.md
 - content/projects/alpha-test.md
 - content/projects/hello.md
