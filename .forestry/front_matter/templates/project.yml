@@ -1,0 +1,22 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: client
+  label: client
+- type: text
+  name: title
+  label: title
+- type: file
+  name: cover
+  label: cover
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: service
+  label: service
+- type: text
+  name: color
+  label: color
